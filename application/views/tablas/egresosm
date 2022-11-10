@@ -1,0 +1,24 @@
+<div class = "conteiner">
+    <table class="table table-striped">
+        <thead>
+            <th> Id_EgresosMensuales </th>
+            <th> alimentacion </th>
+            <th> agua </th>
+            <th> luz </th>
+            <th> gas </th>
+            <th> educacion </th>
+            <th> telefono_fijo </th>
+            <th> telefono_celular </th>
+            <th> transporte </th>
+            <th> vestimenta </th>
+            <th> salud </th>
+            <th> internet </th>
+            <th> tv_Cable </th>,
+            <th> otros </th>s
+        <tbody>
+            <tr>
+                
+            </tr>
+        </tbody>
+    </table>
+</div>
